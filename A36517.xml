@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theou diakonos, or, The civil deacon's sacred power in a sermon upon Rom. 13, 6 : preached in the Cathedral Church of St. Peter, York, at the summer assize, 1669, before the Right Honorable Baron Turner and Serjeant Waller : the Right Worshipful Sir John Armitage being then high-sheriff of Yorkshire / by Sam. Drake ...</title>
+            <author>Drake, Samuel, 1622-1679.</author>
+         </titleStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36517</idno><idno type="EEBO-CITATION">11946620</idno>
+  <idno type="VID">51327</idno>
+  <idno type="EEBO-PROQUEST">2240911959</idno>
+  
+            <idno type="STC">Wing D2133</idno>
+            <idno type="STC">ESTC R20477</idno>
+            <idno type="OCLC">11946620</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51327)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1003:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theou diakonos, or, The civil deacon's sacred power in a sermon upon Rom. 13, 6 : preached in the Cathedral Church of St. Peter, York, at the summer assize, 1669, before the Right Honorable Baron Turner and Serjeant Waller : the Right Worshipful Sir John Armitage being then high-sheriff of Yorkshire / by Sam. Drake ...</title>
+                  <author>Drake, Samuel, 1622-1679.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Grantham ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title in Greek characters.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51327:1"/>
+            <pb facs="tcp:51327:1"/>
+            <p>ΘΕΟΥ͂ ΔΙΆΚΟΝΟΣ. OR <hi>The Civil Deacon's Sacred Power.</hi>
+            </p>
+            <p>IN A SERMON Upon <hi>Rom.</hi> 13. 6.</p>
+            <p>Preached in the Cathedral Church of <hi>St. Peter, York,</hi> at the Summer Assize, 1669. before the Right Honorable Baron <hi>Turner</hi> and Serjeant <hi>Waller.</hi>
+            </p>
+            <p>The Right Worshipful Sir <hi>John Armitage</hi> being then High-Sheriff of <hi>Yorkshire.</hi>
+            </p>
+            <p>
+               <hi>By</hi> SAM. DRAKE, <hi>D. D. Vicar of</hi> Pontefract, <hi>and sometime Fellow of</hi> St. John's Col. Camb.</p>
+            <q>
+               <p>
+                  <hi>Cavendum est ne qui, Magistratu connivente, res novas in Ec<g ref="char:EOLhyphen"/>clesia moliuntur, codem etiam repugnante, idem in Republica efficiant.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Grantham</hi> at the Black Bear in <hi>St. Pauls</hi> Church-yard, near the little North Door, 1670.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51327:2"/>
+            <pb facs="tcp:51327:2"/>
+            <head>TO THE RIGHT WORSHIPFUL AND TRULY LOYAL Sir <hi>JOHN ARMITAGE,</hi> Of <hi>Kirklees</hi> in the County of <hi>York,</hi> BARONET.</head>
+            <opener>
+               <salute>Honored Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Perceive your Chaplain can<g ref="char:EOLhyphen"/>not have his <hi>Quietus est,</hi> when you have yours: but after he hath passed his <hi>Au<g ref="char:EOLhyphen"/>dit</hi> in the Pulpit, must be called to a new reckoning in the Press. When my Accompts will now be
+<pb facs="tcp:51327:3"/> stated, I know not: or whether I shall find as merciful Judges of my Sermons in the Country, as I did in the City. The candid Hearers were then pleased to pardon my infirmities; but I may justly fear that the Critical Readers will not: when many eyes are upon a Sermon, some will alwayes be gloating asquint.</p>
+            <p>But it seems there is no remedy; <hi>Trahendus nisi</hi> it; and nothing is now left to me but the glory of Obeying: and indeed the great and ma<g ref="char:EOLhyphen"/>nifold favours of your Family, even from your Grandfather, (sometime High-Sheriff of this County also) have been so entailed upon me, that they have devoted me, and all my nothing, yours for ever.</p>
+            <p>Accept then these Sermons as your own crea<g ref="char:EOLhyphen"/>tures, the mere product of your command; and if they reproach your Judgment blame your affections, and that loyal zeal which made you approve what ever was unison to it.</p>
+            <p>The same loyal zeal hath somewhat influenced me towards this Publication: and in such a state of times and things it is not easie to restrain it. I know both King and Church have many more learned Champions, all press'd and ready in
+<pb facs="tcp:51327:3"/> their defence: but in <hi>Majestatis reos quilibet homo miles.</hi> And, when I observ'd the Church rent into <hi>Mille Familiarum nomina;</hi> and those such as do <hi>Aedificare ad delictum,</hi> Ani<g ref="char:EOLhyphen"/>mate each other to Schism and Division. When these still steal the Press, that they may steal away the hearts of the People from their Sove<g ref="char:EOLhyphen"/>raign: and, (which is an Impudence not to be out-vy'd) crave, by their still <hi>Clamorous Pamphlets</hi> a Toleration to do it; and, the ful<g ref="char:EOLhyphen"/>lest Convictions cannot stop the Mouth of them. When this Fawning Generation, by the most In<g ref="char:EOLhyphen"/>dustrious Arts, seek to undermine the Truth; why may not I put forth my Hand to stay the tottering Ark, and become a Remembrancer of the Religiously Loyal, and (if possible) a Re<g ref="char:EOLhyphen"/>claimer of some yet Son of Belial?</p>
+            <p>Against their empty Notions then I oppose the solid and substantial Duties of Justice, Mercy and Humility in one Sermon. Whil'st <hi>Fana<g ref="char:EOLhyphen"/>ticks</hi> are gaping after New Nothings, I shew you <hi>(Sir) The Good Old Way;</hi> walk in it, and there is no fear of a Precipice.</p>
+            <p>Whil'st they despise Civil Dominions, and Blaspheme Ecclesiastical Glories, I (in the
+<pb facs="tcp:51327:4"/> other <hi>Sermon</hi>) Writing after St.<hi>Paul</hi>'s Copy,<hi>Tit.</hi> 3. 1.Put them in mind to be <hi>Subject to Principalities and Powers,</hi> and to <hi>Obey Ma<g ref="char:EOLhyphen"/>gistrates:</hi> And, because they do not tremble at their <hi>Blasphemies,</hi> but Triumph in them, <hi>Knowing the Terror of the Lord, I perswade Men, That he who resisteth receiveth to himself Damnation.</hi>
+            </p>
+            <p>If perhaps <hi>(Sir,)</hi> you enquire why this strange <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, why this <hi>Sermon</hi> sup<g ref="char:EOLhyphen"/>planteth his <hi>Elder Brother,</hi> which cryed in the <hi>Pulpit</hi> before him; my Answer is, That this <hi>Sermon</hi> hath the Scarlet-Thred of Sove<g ref="char:EOLhyphen"/>raignty upon it, treating of Gods <hi>Vice-Roy:</hi> and the other is willing to step behind, practi<g ref="char:EOLhyphen"/>sing what it Teacheth, <hi>Humility.</hi>
+            </p>
+            <p>And now <hi>(Sir,)</hi> I have told you my in<g ref="char:EOLhyphen"/>nocent <hi>Design,</hi> if I may (in the least) be therein Serviceable to the <hi>Church,</hi> and Grate<g ref="char:EOLhyphen"/>ful to <hi>You,</hi> it is the only Ambition of</p>
+            <closer>
+               <signed>Your great Honourer,<lb/>
+                  <hi>And most Humble Servant</hi>
+                  <lb/> S. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:51327:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Rom. 13<seg rend="sup">th</seg>. Vers. 6<seg rend="sup">th</seg>.</bibl>
+                  <p>For they are Gods Ministers, attending con<g ref="char:EOLhyphen"/>tinually upon this very thing.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Footsteps of the Lords Annointed, the Holy <hi>Jesus,</hi> were revil'd by some, as if the Prince of Peace, whose Red Garments were dy'd in his own, had a de<g ref="char:EOLhyphen"/>sign to shed the blood of others; and, that Wisdom Himself im<g ref="char:EOLhyphen"/>ploy'd the Rhetorick of <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> to Court Persons into <hi>Rebellion:</hi> You may hear their <hi>Charge</hi> in the 23 St. <hi>Luke</hi> 2. <hi>We found this fellow perverting the Nation and forbidding to give Tri<g ref="char:EOLhyphen"/>bute to</hi> Caesar, <hi>saying, That he himself is</hi> Christ <hi>a King.</hi> Though it was a very Irrational Folly, that this King should be so divided against himself, as, <hi>Sampson-</hi>like, to pull his House over his own Head;
+<pb n="2" facs="tcp:51327:5"/> or, that he should affect Soveraignty, who withdrew himself when they would have forc't him to be King: Yet, that he might Roll away that Reproach, and put to silence the Ignorance of foolish Men, <hi>(Non enim eripit terrestria, qui dat regna caelestia;</hi> He, whose Kingdom was not of this World, came to be<g ref="char:EOLhyphen"/>stow a Heavenly, not to take away an Earthly Crown) that his Obedience might be exemplary, yielded Ho<g ref="char:EOLhyphen"/>mage to <hi>Augustus</hi> in the Womb of his Mother, go<g ref="char:EOLhyphen"/>ing out a tedious four dayes-Journey to be Tax'd, when she was fitter to Lye-in.</p>
+            <p>A further confutation he gives them by his Practice, working a Miracle in the 17th St. <hi>Matthew, vers.</hi> 27. That he might pay Tribute, the mute Fish speaks his Loyalty with Money in her Mouth. And, as his <hi>Practice</hi> is clear for Obedience, so his <hi>Doctrine</hi> is tart against the Rebels, calling them Thieves and Mur<g ref="char:EOLhyphen"/>derers, as all the <hi>Greek</hi> Fathers expound the 10th of St. <hi>John, v.</hi> 8. Nor were his Disciples above their Master, if we believe <hi>Clemens Alexandrinus,</hi> and St. <hi>Austin,</hi> the Apostles were prejudic'd in nothing so much, as by living under a suspicion they were Pesti<g ref="char:EOLhyphen"/>lent Fellows, turning of the World upside down, erecting a Church, which, growing like the Ivy by the sides of the <hi>State,</hi> would eate it out, teaching Subjects to withdraw their Duties from their Princes. To prevent this Malicious Aspersion, all the Holy Pen-men of the <hi>Apostles</hi> bend their strength, and par<g ref="char:EOLhyphen"/>ticularly this great Doctor of the Gentiles, that he might overthrow the Principles of those who espou<g ref="char:EOLhyphen"/>sed the Grounds of <hi>Judas Galileus</hi> Insurrection, af<g ref="char:EOLhyphen"/>firming, all Impositions to be slavish over the Free<g ref="char:EOLhyphen"/>born
+<pb n="3" facs="tcp:51327:5"/> People of the <hi>Jews,</hi> (so ancient is that Cant<g ref="char:EOLhyphen"/>ing Language,) <hi>Acts</hi> the 5th, <hi>vers.</hi> 37. He Writes to the Gentiles the <hi>Romans,</hi> the Head of the Em<g ref="char:EOLhyphen"/>pire, Clearing the <hi>Christian Doctrine</hi> from this Scan<g ref="char:EOLhyphen"/>dal, (by Arguments for Obedience from Gods Or<g ref="char:EOLhyphen"/>dinance, <hi>Vers.</hi> 1.—<hi>The Powers that be are ordain'd of God:</hi> Mans Conscience, <hi>Verse</hi> the 5th. <hi>We must needs be subject for Conscience sake. Thirdly,</hi> From Imperial Vengeance, <hi>Vers.</hi> 4.—<hi>For, he beareth not the Sword in vain; for, he is a Revenger to execute wrath upon them that do evil.</hi> And lastly, from eter<g ref="char:EOLhyphen"/>nal damnation, let them mince the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the second Verse that dare. He Rips from the Bow<g ref="char:EOLhyphen"/>els of <hi>Nature</hi> the mutual Respect betwixt Prince and People, and that upon this account we should not conceive of our Disbursments to our Princes to be Arbitrary Gratuities, but Just Debts: not Extorted by their Power, but Merited by their Pains; <hi>For they are Gods Ministers, attending continually upon the very same thing.</hi>
+            </p>
+            <p>
+               <hi>They are</hi>—Who are these? <hi>Vers.</hi> 4. one of them in the name of the rest is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A <hi>Civil</hi> Deacon then there is, as well as <hi>Ecclesiastical;</hi> and, it is ordinary in <hi>Holy Writ</hi> for <hi>Magistrates</hi> and <hi>Ministers</hi> to exchange Names. We find their Ser<g ref="char:EOLhyphen"/>vice, or Sacred Liturgy <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and these El<g ref="char:EOLhyphen"/>ders that Rule well deserve Double Honour <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> here, <hi>They that diligently attend.</hi> And lastly, lest this <hi>Deacon</hi> should be slander'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he is bounded in my Text with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. These Ministers then are the Grandees of the World; and, if Princes, How easi<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:51327:6"/> doth that draw down an Odium, as if they took too much upon them? whereas the first words of my Text renders them Objects of <hi>Pitty,</hi> rather then of <hi>Envy:</hi> They are but Servants. Servants? Then may their meaneness be slighted, (O where shall the Prince be safe?)</p>
+            <p>Was not this my Word saith the <hi>Novelist,</hi> though he be <hi>Major Singulis,</hi> yet he is <hi>Minor Ʋniversis,</hi> but a Royal Slave? No; he is Gods Servant, saith the next word; and, the Master of us all. I, but some Chur<g ref="char:EOLhyphen"/>lish <hi>Nabal</hi> is still ready to say, There be many Ser<g ref="char:EOLhyphen"/>vants that now adayes run away from their Masters Commands; well, but these continually attend; <hi>continually attending. O non amo nimium diligentes:</hi> Wherein lies the great strength of these <hi>Sampsons?</hi> Wherein do they exert their Power? St. <hi>Paul,</hi> by way of detestation of such frivolous Jealousies, and causeless Fears, sayes, They <hi>intend the Main,</hi> the <hi>Grand Concern,</hi> the very same thing they ought to <hi>attend.</hi>
+            </p>
+            <p>In which words observe,</p>
+            <list>
+               <item>
+                  <hi>First,</hi> The Magistrates Serviceable Ministry, <hi>They are Servants.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> Their Soveraign Dignity, <hi>Gods Ser<g ref="char:EOLhyphen"/>vants.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly,</hi> Their Industrious Sedulity, <hi>Attending continually.</hi>
+               </item>
+               <item>
+                  <hi>Fourthly,</hi> The particular Sphere of their Activi<g ref="char:EOLhyphen"/>ty, <hi>The very same thing.</hi>
+               </item>
+            </list>
+            <p>The First Reason in the <hi>Text,</hi> whereby St. <hi>Paul</hi> inforceth his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.—<hi>Let every Soul be subject,</hi> is, because they are <hi>Servants: Res transit cum One<g ref="char:EOLhyphen"/>re,</hi> saith the <hi>Law;</hi> There is no benefit but hath its
+<pb n="5" facs="tcp:51327:6"/> burden along with it, A Golden Chain. The <hi>Greeks</hi> have this Proverbial Speech, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. There is one Great Servant in a Kingdom, and that is the King: The chiefest Office in Church and State are for the Service of it. Even the <hi>Lion of the Royal Tribe of</hi> Judah <hi>was Couchant, Gen.</hi> 49. <hi>vers.</hi> the 9th. <hi>He stooped down, he couched like a Lyon.</hi>
+            </p>
+            <p>Nay, <hi>(Issachar-</hi>like,) The Magistrate must couch under many a burden. I find some <hi>Jesuites</hi> prying into the Reason, why <hi>Samuel</hi> reserved the Shoulder for <hi>Saul</hi> to feed upon, 1 <hi>Sam.</hi> 9. 24. and they resolv'd it thus; Kings, above others, had need have the strength of the Shoulder, to endure the Molestations and Cares that attend their Office: Probably there<g ref="char:EOLhyphen"/>fore the Prophet <hi>Isaiah</hi> describing the King of Saints in his 9th Chapter, <hi>Vers.</hi> 6. saith—<hi>The Government shall be upon his Shoulder:</hi> The fittest Member for so great a Load.</p>
+            <p>A Servant: <hi>Sauls</hi> Modesty had a great Truth in it, 1 <hi>Sam.</hi> 10. 21. I blame him not for hiding himself from them that were seeking to make him a King. Honour is burdensome upon the best Termes, How can it be otherwise, when the Cares of a Kingdom are devolved upon one Man? Glory is a weighty thing. The <hi>Hebrew</hi> word for Glory <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, signifies <hi>Pondus;</hi> intimating, that Glory, as it is a bright, so it is a heavy thing: Therefore in the Second of the <hi>Corinthians,</hi> 4. 17. it is call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Weight of Glory.</hi> I now see it was more then a Comple<g ref="char:EOLhyphen"/>ment of the Sages of <hi>Israel</hi> to <hi>Rehoboam,</hi> 1 <hi>Kings</hi> 12. 7. when they perswaded him to be the Peoples
+<pb n="6" facs="tcp:51327:7"/> Servant for a day; this they intended but as Handsel, and to Inure him to his Office. <hi>Ich Dien,</hi> as it is the Motto of ours, so it must be of every Prince, <hi>I Serve:</hi> Nor is the ordinary word for Servants here made use of, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Publick Servants,</hi> as the word is generally used.</p>
+            <p>Appropriated to none under Kings or Priests: nei<g ref="char:EOLhyphen"/>ther yet is it derived from that word that relates to <hi>Prayers</hi> here, that <hi>Liturgy</hi> was alwayes reserved for the <hi>Priest;</hi> but, rather from a word that imports a a <hi>Spoil,</hi> the Recovery whereof is a Princes proper work. So farr is St. <hi>Paul</hi> from Teaching a Prince to hunt after his Prey, that he enjoynes him to pluck it from the teeth of the Devourer, by this significant word confining him unto Recoveries. If Five Kings fall upon <hi>Lot</hi> and force away his Goods, <hi>Abraham</hi> Armes his Retinue for a Rescue by vertue of this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: The Shields of the Earth belong unto God, and they have their Power for Protection of the Bo<g ref="char:EOLhyphen"/>dy <hi>Politick;</hi> That our choisest Goods, or dearest Re<g ref="char:EOLhyphen"/>lations, are, either maintained in Peace at home, or re<g ref="char:EOLhyphen"/>gain'd by Battel abroad, impute we must to the Paines of these Publick <hi>Ministers.</hi>
+            </p>
+            <p>
+               <hi>Servants</hi> they are: And, lest that word should sound too <hi>harsh</hi> to any, the Grave Moralist <hi>Seneca softens</hi> it; <hi>Servus es? Quis non?</hi> Though he be not Tugging at the <hi>Oare,</hi> yet he is Guiding at the <hi>Sterne.</hi> Are not the <hi>Angels Ministring Spirits?</hi> nay, Did not our Lord <hi>Jesus Christ</hi> take upon him <hi>the form of a Ser<g ref="char:EOLhyphen"/>vant?</hi> to <hi>sweeten</hi> the Service of all that are in Autho<g ref="char:EOLhyphen"/>rity, and to <hi>salve</hi> their Repute; the next branch of the <hi>Text</hi> calls them Gods Servants. <hi>Servire Deo reg<g ref="char:EOLhyphen"/>nare
+<pb n="7" facs="tcp:51327:7"/> est;</hi> and, this alters the Scene: It is a favour, not a burden now. If any thing mislike in the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, sufficient amends is made for it in the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Dignitate Domini honorata est Conditio Servi.</hi>
+            </p>
+            <p>Your Duty is <hi>Honorary,</hi> your Service a <hi>Priviledge:</hi> It is a Glory to be Vassal to the King of Kings. High are your Titles, O ye Magistrates! but, this transcends all. It is more glorious to be this Lords Servant, then to be Lord of the whole Earth. The Magistrate is Gods Servant, to whom he hath com<g ref="char:EOLhyphen"/>mitted the care of his People: expresly is <hi>Abraham</hi> stil'd by the <hi>Hethites,</hi> A Prince of Gods Servants. The words shine clear with their own <hi>Shemesh,</hi> or <hi>Sun,</hi> contained in the <hi>Text;</hi> though some would bring a Cloud, or cast Darkness upon the face of them. <hi>Christi Domini,</hi> (saith the <hi>Psalmist,) Populus nil con<g ref="char:EOLhyphen"/>tulit: Filius Dei</hi> the Magistrate is, not <hi>Populi,</hi> no more then <hi>filius Diaboli.</hi> Though Sathan in the 4th of St. <hi>Luke, vers.</hi> 6. layes just such another claime, say<g ref="char:EOLhyphen"/>ing, <hi>The Kingdomes of the World are given unto me, and I conferr them upon whom I please.</hi> If we regard their Essence, or Institution, Kings hold not their Kingdomes by Indenture, or Covenant, as some <hi>No<g ref="char:EOLhyphen"/>velists;</hi> nor have they a Grant onely, <hi>dum bene se ges<g ref="char:EOLhyphen"/>serint,</hi> as others: <hi>Tertullians Inde illis Potestas unde Spiritus,</hi> shows, they have a higher rise; And, the Breath of our Nostrills must be the Anointed of the Lord.</p>
+            <p>Nor yet is the Nicety of the <hi>Schoolmen</hi> to be en<g ref="char:EOLhyphen"/>dured; as if God took care for the <hi>Essence,</hi> Men for the <hi>Existence</hi> of <hi>Soveraignty:</hi> The <hi>Platonists</hi> as rationally conceive the Souls of Men Created all at the
+<pb n="8" facs="tcp:51327:8"/> beginning, and hover about the Concave of the <hi>Moon,</hi> till (as occasion serves) they be fetch'd down by an Angel to informe their appointed Bodies.</p>
+            <p>So these Formes of Government are in their waite, attending to be united to such a Prince, by the Popes <hi>Holiness,</hi> or the Peoples <hi>Haughtiness.</hi> That Gover<g ref="char:EOLhyphen"/>nors are in their Wait is plain here; but, that Forms of Government should be so, would impose a slavery upon the Office, in stead of service upon the Person. The God of Order hath placed Heads in every Na<g ref="char:EOLhyphen"/>tion, who hold by Copy in regard of <hi>Essence</hi> and <hi>Insti<g ref="char:EOLhyphen"/>tution;</hi> And, so in regard of <hi>Office</hi> and <hi>Function</hi> also: <hi>Suboperarii</hi> these Servants are; not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, so Peo<g ref="char:EOLhyphen"/>ple as well as Princes do <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, do Pri<g ref="char:EOLhyphen"/>vate Service to the Lord; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gods Pub<g ref="char:EOLhyphen"/>lick Servants, and serve him one way as Men in Com<g ref="char:EOLhyphen"/>mon with others, <hi>Psal.</hi> 2. 10. <hi>Be wise now therefore O ye Kings, be instructed O ye Judges of the Earth, serve the Lord in reverence and in fear:</hi> Another way as Kings, when by their Edicts they discourage Vice, and countenance them that do well.</p>
+            <p>Yea, we find the Stile of Gods Servant given to Heathen Infidel Princes, <hi>Jer.</hi> 25. <hi>v.</hi> 9. <hi>Nebucadnez<g ref="char:EOLhyphen"/>zar</hi> is called Gods Servant: And, in another place <hi>Balthazar</hi> his Son, because of his Shadow. <hi>Isa</hi> 44. <hi>v.</hi> 28. <hi>Cyrus</hi> is called Gods <hi>Shepherd,</hi> one of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and, the <hi>Roman</hi> Emperour here in my Text: God hath Imployment for them below the Stairs, though they have not access into the Privy-Chamber, matters of <hi>Faith</hi> and <hi>Religion.</hi>
+            </p>
+            <p>They may be Hewers of Wood, and Drawers of Water for the <hi>Sanctuary,</hi> though the <hi>Arcana Imperii</hi>
+               <pb n="9" facs="tcp:51327:8"/> they understand not. Man hath a care of his Beast, because he may be laden with Mysteries he knows not the value of; God hath a care of a Heathen Com<g ref="char:EOLhyphen"/>mon-wealth for the good of his Church: And, he required the <hi>Primitive Christians,</hi> 1 <hi>Tim.</hi> 2. 2. <hi>To make Prayers and Supplications for Kings, and all that be in Authority:</hi> Why? <hi>That we may lead peaceable and quiet lives.</hi> Is that all? nay rather, <hi>Vers.</hi> 4. <hi>That by our obedience we may gain them over to the knowledge of the truth.</hi>
+            </p>
+            <p>My <hi>Text</hi> saith, Even these are not without a Ma<g ref="char:EOLhyphen"/>ster. And, for those Magistrates that are within the Pale of the <hi>Church, God sitteth in the Congregation of Princes:</hi> his Will must be the Square of their Acti<g ref="char:EOLhyphen"/>ons. As the Eyes of a Servant look to the Hand of his Master, so must the Prince eye his God: <hi>Blessed is that servant whom the Lord when he cometh shall find so doing;</hi> So doing, How? That's the Third Observa<g ref="char:EOLhyphen"/>ble, <hi>attending continually.</hi> God hath joyned your Service with your Soveraignty so in the Text, that they can never be separated. <hi>Attending,</hi> there's the Quality of your Office; <hi>Continually,</hi> there's the Du<g ref="char:EOLhyphen"/>ration: both Intention and Extention must be secu<g ref="char:EOLhyphen"/>red, that the Duty may be Intire, and the Work of the Lord prosper in your hands.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—How have the Expositors la<g ref="char:EOLhyphen"/>bour'd after the right Emphasis of this word! The Holy Ghost hath pitcht upon such a word in this place, to express the care and watchfulness of a Prince, and to stir up the gratitude of the People, as no in<g ref="char:EOLhyphen"/>vention in the World else could reach: I may say of this word as the Orator of his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Hoc quantum est
+<pb n="10" facs="tcp:51327:9"/> ita magnum est ut Latino uno verbo exprimi non po<g ref="char:EOLhyphen"/>test:</hi> Such a word as the <hi>Latines</hi> cannot express in one word. <hi>Melancthon</hi> stiles this of my <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ext <hi>Insignem particulam de diligentia;</hi> an admirable word for In<g ref="char:EOLhyphen"/>dustry: to let us know, Princes were neither Ordain'd by God, nor Maintain'd by Men for their own Ease, but unexpressible Service: To which purpose St. <hi>Je<g ref="char:EOLhyphen"/>rom</hi> renders the word <hi>Inservientes; Budaeus</hi> (that most admirable <hi>Graecian) De pedissequis dicitur</hi> (saith he) <hi>Lackqueying. Ab alicujus latere non discedere, Acts</hi> the 8th, here's Ministry indeed: <hi>Sadolet</hi> Tran<g ref="char:EOLhyphen"/>slates it <hi>Insudantes; Beza, Fortiter incumbentes. De<g ref="char:EOLhyphen"/>ducitur à <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, quod unâ Literâ transpositâ idem est quod <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Robur, victoria,</hi> saith Bishop <hi>Davenant:</hi> St. <hi>Austin</hi> adds <hi>Perseveranter,</hi> and that makes the <hi>con<g ref="char:EOLhyphen"/>tinual attendance</hi> of the Text. You never find this word in any <hi>Author,</hi> but, at the first view it represents some extraordinary <hi>Intention</hi> and <hi>Industry; Athenaeus</hi> applies it to Overseers of Publick Works; <hi>Themisti<g ref="char:EOLhyphen"/>us,</hi> to those Creatures that are most eager in quest of their Scent, pursuing their Game till they catch it.</p>
+            <p>St. <hi>Mark, Chap.</hi> 3. <hi>Vers.</hi> 9. applies it to Tugging at a pair of <hi>Oares;</hi> St. <hi>Luke</hi> to <hi>Prayers,</hi> which should be <hi>without ceasing:</hi> So then, the Diligent <hi>Overseer,</hi> the VVaiting <hi>Ferry-man,</hi> the Sagacious <hi>Hound;</hi> nay, the Devout <hi>Soul,</hi> in his <hi>Prayers,</hi> doth not (according to these expressions) Outvye these Servants of God in their Attendance. <hi>Quum nullae Aerumnae nos are aliquâ avellere possunt,</hi> saith <hi>Stephanus;</hi> There is a Grain of Patient Suffering under the Burden, in his word <hi>Toleranter:</hi> And; this mindes me of our late <hi>Martyr'd</hi> Soveraign; VVhat contradiction of Sinners
+<pb n="11" facs="tcp:51327:9"/> he suffer'd, and, VVith what patience? wherein, though he was more Eminent and Glorious, yet, some<g ref="char:EOLhyphen"/>thing like this seems to be the fate of all Kings. <hi>Se<g ref="char:EOLhyphen"/>leucus</hi> long since deliver'd his Opinion; and, one of our <hi>Henryes</hi> seconded him. If we knew with what inward Cares a Crown was lin'd, we would not take it up though it lay prostrate at our feet: The Gilding of their Heads breaks their sleep; their Heads are Musing, whil'st yours are Powdering. <hi>Chrysosto<g ref="char:EOLhyphen"/>mus</hi> sayes, The Crown is a convenient Night-Cap for the continual Head-ache of Princes: The <hi>Oyle of Gladness</hi> is indeed in the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, look<g ref="char:EOLhyphen"/>ing upwards; but, the <hi>Spirit of Sadness</hi> in this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, eyeing their Attendance below: And, this made <hi>Vespasian</hi> call their Purples <hi>Mourning Gar<g ref="char:EOLhyphen"/>ments;</hi> saying, They carried more of Fancy, then Fe<g ref="char:EOLhyphen"/>licity: The Holy Ghost speaks no less, <hi>Acts</hi> 25. 23. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Agrippa and Bernice came with much Fancy.</hi> God, that built the <hi>Temple</hi> upon the <hi>Threshing-floore,</hi> to note our <hi>Harvest-work,</hi> raised the <hi>Throne</hi> upon <hi>Lyons;</hi> Creatures, that are said to sleep with their eyes open: He that Sits at the Sterne must not Slumber.</p>
+            <p>The <hi>Aegyptian Hieroglyphick</hi> for a King, was, <hi>Ocu<g ref="char:EOLhyphen"/>lus in Sceptro;</hi> a <hi>Scepter</hi> with an Eye in it alwayes Looking: A <hi>Basiliske</hi> with the Head upwards, alwayes moving. But, let us leave the <hi>Emphasis</hi> of the word, and look upon that of their worth; and, for that, let our Apostles Charge guide us, <hi>Rom.</hi> 12. 8. <hi>He that Ruleth, let him do it with Diligence; Intensive, Active, Busie, Fervent</hi> in <hi>Spirit,</hi> he must be serving the Lord in his Calling. <hi>Ipse solum quiete fatigatur,</hi> saith St.
+<pb n="12" facs="tcp:51327:10"/>
+               <hi>Hillary;</hi> Tyred onely for want of Imployment. The great <hi>Leviathan,</hi> that King of the Children of Pride, in the VVaters, was made to take his pastime therein, saith the <hi>Psalmist:</hi> But, if we eye the Kings of the Earth, the Titles of Princes, or Circuits of Judges, we shall find them very painful; and, whil'st they are attending their VVork, fresh VVork attends them.</p>
+            <p>
+               <hi>Continually attending</hi>—Strange VVords, and stran<g ref="char:EOLhyphen"/>ger VVork for Magistrates. 'Tis plain by this, the Manner in which a Duty is perform'd is as much to the Acceptation of it as the Matter: To neglect the doing of a Duty, and to perform it negligently, is an equal Offence in Gods eye; God may call such work <hi>Cabul,</hi> dirty, or displeasing, as <hi>Hiram</hi> did the Citties King <hi>Solomon</hi> gave him, 1 <hi>King.</hi> 9. 13. He may say, VVhy have you gone about my VVork so perfuncto<g ref="char:EOLhyphen"/>rily? as well as <hi>Why stand you idle? Cursed is he that doth the Work of the Lord negligently,</hi> saith God by the Prophet <hi>Jeremy;</hi> 'Tis deceitfully according to the <hi>Letter.</hi>
+            </p>
+            <p>And, well may this Interpret the former; for, in the neglect of our Duty, whil'st we think to cheat Men, and impose upon God, we do indeed delude our own Souls most. Shake off that dull numness of Soul, 'tis St. <hi>Bernards</hi> Advice; <hi>The Sword of the Lord and of Gideon</hi> must still be the cry: <hi>Jacob</hi> got the Bles<g ref="char:EOLhyphen"/>sing under the Name of <hi>Esau,</hi> which signifieth work<g ref="char:EOLhyphen"/>ing; in this sence we must have the Hands of <hi>Esau,</hi> if we expect the Blessing of <hi>Jacob.</hi> You have heard that the Prince is but a <hi>Servant,</hi> Gods <hi>Servant;</hi> and, that he must be diligent: it now remains to show where His Imployment lies; whether he do attend
+<pb n="13" facs="tcp:51327:10"/> our Profit and Necessity, or our Pleasure and Super<g ref="char:EOLhyphen"/>fluity: Therefore, lest we should think of the Magi<g ref="char:EOLhyphen"/>strate, as the <hi>Scythian</hi> King said of the <hi>Musitian,</hi> That he was alwayes making a great Noise in a matter of nothing. St. <hi>Paul</hi> sets down the Element wherein he is Conversant, Steering the Affairs of Church and State: and, this points me to my last words of my Text, the particular Sphere of their Activity—<hi>this very thing.</hi>
+            </p>
+            <p>There are ancient Land-marks of Prince, Priest and People; wherein the Apostle saith we must <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; and, so we may, as in a Castle for Safety, or Sanctuary for Glory: <hi>Though one Star differ from ano<g ref="char:EOLhyphen"/>ther in Glory,</hi> yet they all shine in their own Spheres. If we act in our Calling, we act like the Heavens, ever in motion, and ever at rest.</p>
+            <p>As 'tis in Nature, <hi>Gravia non Gravitant in propriis locis,</hi> so in the Societies of Men, our Diligence in our own Business is Soveraign and Connatural to our Estates and Conditions; but, most times poysonous abroad, and fatal to our selves and others: God hath proper places wherein the Creatures are to performe their Duties, and enjoy their Happiness: The Angels had Heaven, which was their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; if they will not keep their Stations above, Saint <hi>Jude</hi> assures us <hi>they shall be reserved in Chaines of darkness below: Adam</hi> had <hi>Paradise,</hi> (a small Prohibited Circle ex<g ref="char:EOLhyphen"/>cepted;) but, if the Curiosity of his Gusto must stretch out to the <hi>Forbidden Fruit,</hi> a Sweaty Brow, and a Barren Land shall be Entayl'd on him and his for it: <hi>Christians</hi> have the Church, now keeping <hi>by the Tents of the Shepherds,</hi> they are safe: but, if they forsake
+<pb n="14" facs="tcp:51327:11"/> the <hi>Assemblies,</hi> they may justly fear <hi>Cains</hi> Judgment, or a <hi>Tradere Satanae.</hi> Keep your Stations then, and an<g ref="char:EOLhyphen"/>swer every Temptation that shall flatter you to the <hi>Opus Alienum;</hi> as <hi>Cujatius,</hi> that famous <hi>Lawyer</hi> of <hi>France</hi> used, when any requested his resolve in a point of <hi>Divinity; Hoc nihil ad Edictum Praetoris,</hi> That's our of my way. The VVisdom of King <hi>Solomon</hi> gave <hi>Shimei</hi> his Limits; safe he should be in <hi>Jerusalem,</hi> but, if he pass the Brook <hi>Kidron,</hi> he suffers: God, in con<g ref="char:EOLhyphen"/>fining us to our Callings, gives us a Line and Measure, which we should not pass, except we would incurr the Apostles Censure, <hi>in being busie-bodies in others mat<g ref="char:EOLhyphen"/>ters; Tertullian</hi> calls them <hi>Alieni speculatores:</hi> Like those <hi>Lamiae,</hi> that had Eyes Abroad, and Blind at Home. <hi>Sibi parciores foris toti sunt,</hi> saith St. <hi>Am<g ref="char:EOLhyphen"/>brose,</hi> This <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is a vile fault; <hi>Study to be quiet, and do your own business,</hi> mind your <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Corah</hi> riseth up out of his place, the Earth sinks un<g ref="char:EOLhyphen"/>der him: <hi>Sheba</hi> blowes the Trumpet, which was not in his power, he forfeits his Head for the Blast. <hi>Ab<g ref="char:EOLhyphen"/>salon</hi> gets up into the Tribunal, which was none of his but his Fathers; his Ambition is humour'd, and he mounts an Oake, a fitter place for such a Traytor. They that will not know their proper place here, shall goe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Acts</hi> 1. 25, <hi>Judas-</hi>like, to their proper place after. Though <hi>Uzzah</hi> may have a very honest intention to support the tottering <hi>Arke,</hi> yet, if he put forth his hand not being a Priest, <hi>digitus dei</hi> appears against him forthwith, because he did not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; They escape that sin by Negli<g ref="char:EOLhyphen"/>gence (for the <hi>Ark</hi> should not have been carried in
+<pb n="15" facs="tcp:51327:11"/> a Cart, but upon their shoulders) but he suffers for his Presumption: Nay, even King <hi>Uzziah</hi> himself, a Prince, unlimitted in the Tent, shall find, a <hi>Hitherto shalt thou go in the Temple, and no further:</hi> Though <hi>Civil</hi> things pass through his hands, <hi>Sacred</hi> must not. The <hi>Scepter</hi> is the <hi>Kings,</hi> the <hi>Censer</hi> is the <hi>Priests:</hi> and if <hi>Ʋzziah</hi> be a Rank-breaker, whil'st Fury is in his mouth against the Priests, a wrathful <hi>Leprosie</hi> appears in his own Forehead.</p>
+            <p>To that extravagant Question, <hi>Master, What shall this Man do?</hi> How Tart is our <hi>Saviours</hi> Reply? <hi>What's that to thee? follow thou me:</hi> that's thy busi<g ref="char:EOLhyphen"/>ness. And, if the highest Prince hath his limits, lets see the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> he is bound to mind: And now I know not how to resemble these two Pronouns bet<g ref="char:EOLhyphen"/>ter then to the Damsel <hi>Rhoda, Acts</hi> 12. 13. when St. <hi>Peter knockt, she open'd not the Gate her self,</hi> but ran and fetch'd those that did it; so, when we knock to know the particular verge of Princes Imployment: These two Pronouns speak little themselves, but yet they call up all the preceding Verses to make answer concerning their attendance; the first Verse tells us, They serve us by that Order, which he, who is not the God of Confusion in Kingdomes, any more then in Churches, hath appointed: The Fourth Verse tells us, They serve us for Chastising unruly Spirits, dis<g ref="char:EOLhyphen"/>solving Religious Riots, for the punishment of wicked doers. 'Tis his Power that must cut off a wicked <hi>Ha<g ref="char:EOLhyphen"/>man,</hi> and advance an honest <hi>Mordecai, for the praise of them that do well,</hi> Vers. 3. He searcheth for a <hi>Joseph</hi> that can Divine, good <hi>Obadiahs, Daniels,</hi> persons of an excellent spirit, such as are faithful in the Land,
+<pb n="16" facs="tcp:51327:12"/> these he advanceth: Would you know Heavens Imposition upon Princes? 'Tis for Order, for Punish<g ref="char:EOLhyphen"/>ment, and for Reward; this is their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>And now give me leave to Ingeminate the words; Are Princes <hi>Servants?</hi> this word may cool the too Imperious Spirit of any in Authority: <hi>Meminisse opor<g ref="char:EOLhyphen"/>tuit officii sui Titulum,</hi> as <hi>Pliny</hi> said to one newly elect<g ref="char:EOLhyphen"/>ed <hi>Praetor.</hi>
+            </p>
+            <p>Remember the first word in your Definition is <hi>Ser<g ref="char:EOLhyphen"/>vant.</hi>
+            </p>
+            <p>In the midst of the Triumphs of the Consuls at <hi>Rome,</hi> a <hi>Servant</hi> was thrust in: So Princes, upon the same account, have Service in their very Name, to minde them of their Office.</p>
+            <p>
+               <hi>Secondly,</hi> Are they Gods <hi>Servants?</hi> then must they do his Will, all his Wills, with a Princely spirit; bind your selves in an everlasting Apprentiship unto God as <hi>David,</hi> lay down your Scepters at his Foot-stool, O Princes: If this great Master command you to Sacrifice your <hi>Joy,</hi> your <hi>Laughter,</hi> your <hi>Isaac,</hi> (though it sound never so harshly) it must be done. If a Captain of a Hundred could say to one, <hi>Go, and he goes,</hi> &amp;c. What exact obedience is due unto the Lord of Hosts? 'tis your Interest as well as Duty to serve him: You that are Publick <hi>Servants</hi> shall have great Reward at the End, and great Protection in the Way; for, Who can lift up his hand against the Lords Annointed, and be guiltless? VVhy, <hi>Are you not afraid to speak against my Servant</hi> Moses? this is Blaspheming Glory: nay, the very Intention, <hi>vo<g ref="char:EOLhyphen"/>luerunt insurgere,</hi> in the case of <hi>Bigthan</hi> and <hi>Teresh,</hi> may fright the Rebel.</p>
+            <pb n="17" facs="tcp:51327:12"/>
+            <p> Lest <hi>the Birds of the Air should reveal their secret,</hi> and the thing that hath wings <hi>declare the matter;</hi> both Intelligencers and Executioners it seemes these may be: <hi>The eye of him that curseth the Father,</hi> (of his <hi>Country</hi> especially,) <hi>the Raven of the Valley shall pick is out.</hi> Do they attend continually? And, the busi<g ref="char:EOLhyphen"/>ness they ought to attend? Doth not St. <hi>Paul</hi> insert one blot in the Character of <hi>Nero?</hi> Is he stil'd Gods <hi>Minister?</hi> then, servants, be obedient to your Ma<g ref="char:EOLhyphen"/>sters (such are Princes to us) not onely to the Good, but to the Crooked, to the Foolish; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, saith the Apostle. To <hi>Tiberius Caesar</hi> our Saviour bids <hi>render:</hi> To <hi>Nero</hi> St. <hi>Paul:</hi> (for Shame then to our <hi>Charles.)</hi> What Application can be more appo<g ref="char:EOLhyphen"/>site then this of the Apostle, <hi>Render therefore to all their Dues.</hi> And now the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Janus-</hi>like, looks <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; As it bindes the burden of Order, Punishment, and Reward, upon the backs of Princes in the former Verses; so, it imposeth upon us Tribute, Custom, Fear, Honour in the latter: Observe I pray you, how St. <hi>Paul</hi> spreads this Verse over the subsequent, Print for Print, as <hi>Eliah</hi> stretcht himself over the <hi>Zareptan</hi> Child, to revive the Duty of Obe<g ref="char:EOLhyphen"/>dience, so dead in most: The several Offices in this Verse are as so many Load-stones, to attract the Ren<g ref="char:EOLhyphen"/>ditions in the other.</p>
+            <p>The Harmony of my Text, and this Rendition, would have been able to have quieted the Evil Spirit in a <hi>Judas Gallilaeus</hi> himself, this therefore is so ade<g ref="char:EOLhyphen"/>quately convincing.</p>
+            <p>More strictly; <hi>Servants they are,</hi> (saith my Text.)
+<pb n="18" facs="tcp:51327:13"/> Now Servants that venture for others should be born out in their Casualties: <hi>Quis militat propriis Stipen<g ref="char:EOLhyphen"/>diis?</hi> Who goeth to warfare at his own Cost, saith the Apostle? <hi>Render therefore Tribute.</hi>
+            </p>
+            <p>Secondly, <hi>Gods Servant;</hi> And, they that have so Royal a Master, must have a Salary certain, that's most for his Honour, <hi>therefore pay we Custom.</hi>
+            </p>
+            <p>Thirdly, Such Servants as are of the Closet, and in their near Attendance, have a Reflection from his Deity: <hi>Moses</hi> his Face shone when he had been in the Mount with God; <hi>render therefore Fear.</hi>
+            </p>
+            <p>Fourthly, Gods Servants, for the good of <hi>Church</hi> and <hi>State:</hi> To whom should Honour be due if not to these? By the great Orator <hi>Tertullus</hi> his Insinuation Learn we may to address our selves to our Prince, in that confessed Truth <hi>Acts</hi> 24. 2. <hi>Seeing that by Thee we enjoy great quietness, and that very worthy Deeds are done unto this Nation by thy providence, we accept it al<g ref="char:EOLhyphen"/>wayes, and in all places, with all thankfulness:</hi> O! How becoming is this Language in our Mouths, and this Tribute in our Hands?</p>
+            <p>Tribute is due to them in token of our Subjection; and, by way of Recompence for the great care, pains, and perils Princes sustain, that they may preserve us in Wealth, Peace, and Godliness. <hi>Suis rebus neglectis nostrae Curiae invigilant:</hi> Tribute therefore is due by Nature and Original Justice, as to the Defender of our Estates, Persons, of our Lives, yea of our Faith. God, who alone sets the Crown upon their Heads, bids us eye Him, and render to His Vice-Roys Tribute as a due Debt, not an Arbitrary Gratuity or Benevo<g ref="char:EOLhyphen"/>lence:
+<pb n="19" facs="tcp:51327:13"/>
+               <hi>Praestatis, non datis;</hi> Render, 'tis but a Re<g ref="char:EOLhyphen"/>storing of part of that which God hath deliver'd to us. The <hi>Arabick</hi> Version of my Text flies high, <hi>Si<g ref="char:EOLhyphen"/>quidem exactores illorum Ministri Dei huic eidem nego<g ref="char:EOLhyphen"/>tio inservientes exactores:</hi> The worst of them are Gods Ministers; and, that of St. <hi>Austin</hi> aimes no Lower, when in that Triumphant Language he breaks out, <hi>Dent nobis Tales Debitores Redditores, &amp; Exacto<g ref="char:EOLhyphen"/>res ipsius fisci, quales praecepit esse Doctrina Christi:</hi> Give us, if you can, such Tribute-Payers as <hi>Christi<g ref="char:EOLhyphen"/>ans,</hi> and this the Doctrine they Preach presseth upon them: And again, the same Father; <hi>Si censum fi<g ref="char:EOLhyphen"/>lius Dei solvit, quis tu es qui non putat esse solven<g ref="char:EOLhyphen"/>dum?</hi>
+            </p>
+            <p>The Wise Man tells us plainly, <hi>Proverbs</hi> 24. 28. <hi>He that robs his Father</hi> (and 'tis most true of the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> of his Country) <hi>he is the Companion of them that destroys Nations.</hi> But, <hi>What need we further witness,</hi> when every Woman that looks at her Coyn with the Mother of <hi>Sisera,</hi> may Answer her self, <hi>Whose is this Image or Superscription?</hi> From whom hath it its Au<g ref="char:EOLhyphen"/>thority? Receives its Value or Estimate? Is it not from King <hi>Charles? Render therefore</hi>—He hath a Right in it. What can the Loyal Party think too much to give to the Restorer of their <hi>Temporal</hi> and <hi>Spiritual</hi> Freedoms? What can others think too much to give him, who hath forgiven them their Heads? <hi>Kings are Nursing Fathers;</hi> What, VVill you starve your Nurses? They are the Physitians that heal our Nation when it shaketh; Honour the Phy<g ref="char:EOLhyphen"/>sitian whil'st you live, render plentifully: Is not the
+<pb n="20" facs="tcp:51327:14"/> Belly answerable for its viands by a suitable sup<g ref="char:EOLhyphen"/>ply? and, So the Head for the Ornaments with which it is Crown'd? The Overflowings of a King, like that of <hi>Nile,</hi> makes the Country fruit<g ref="char:EOLhyphen"/>ful. Doth <hi>Saul</hi> enjoy plenty? he Cloathes the Daughters of <hi>Jerusalem</hi> in Scarlet: Then is Peace within our VValls, when Prosperity is in their Pal<g ref="char:EOLhyphen"/>laces.</p>
+            <p>Neither yet are they Cistersn that hold, but Con<g ref="char:EOLhyphen"/>duits that convey your Money. The Circulation of your Coyn is as sure as that of your Blood: <hi>Pe<g ref="char:EOLhyphen"/>timusque damusque vicissim;</hi> They do but hand it to us. Render therefore a just payment for so great paines, a poor Pay (God knowes) for so great VVork, were they not assured withal, that what the People impart was not <hi>Praemium Laboris,</hi> a full re<g ref="char:EOLhyphen"/>ward of their Service; but, <hi>Stipendium Laborantis,</hi> (as <hi>Goran</hi> stiles it,) a Trifl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng supply during their Service.</p>
+            <p>Then do they receive a full Recompence, when they pass from Attending many times an unthank<g ref="char:EOLhyphen"/>ful ingrate People here, to wait upon God and his Holy Angles after. In the mean time, if those solid Coelestial Orbs above, move not from any In<g ref="char:EOLhyphen"/>ternal Principle within but by their assisting Angel or Intelligence; Why marvel we that these Fluid, Sandy, Terrestrial Bodies below, cannot continue in any Religious or Civil Course except Princes attend their Motion, this great business. The <hi>Aethiopick version</hi> of the Text gives the very reason, <hi>Quia misit illos Deus;</hi> They were design'd to this end: <hi>Et
+<pb n="21" facs="tcp:51327:14"/> ad hoc opus praeficiuntur,</hi> to bend this Point where the Holy Ghost intends it; Suppose this great bu<g ref="char:EOLhyphen"/>siness a great Ship, where every one is an Adven<g ref="char:EOLhyphen"/>turer; she makes a Return, not like <hi>Solomons</hi> Na<g ref="char:EOLhyphen"/>vy, 1 <hi>Kings</hi> 10. 22. <hi>of Ivory, Apes and Peacocks;</hi> but, with the Richest Jewels of Heaven, Plenty, Peace, Justice, Religion: Now, if this Pilot de<g ref="char:EOLhyphen"/>mand Repaires of VVrecks or Losses, is it not sin in any to quarrel at his Bill, that believes he is Gods Servant for our Good? 'Tis not honesty to deny a due to his Servant, the Labourer is worthy of his VVages, and we have our penny-worth for our Penny: To deny Gods Servants Tribute, is Impiety; to deny Diligent Servants is strange Obstinacy; and, to deny Servants imployed in so great and profitable VVork, (as <hi>Hugo</hi> renders it,) is flat Barbarisme: And yet, all these he must be Guilty of, that will not Render; <hi>For they are God's Ministers Diligently Attending the same thing.</hi>
+            </p>
+            <p>You then that really are such Servants of God, desiring to Walk in Your Places Answerable to Your great Names, Comfort Your selves with this Title; I have a Good Master (said one of the Fathers frequently;) And, good <hi>Hylarion</hi> hereup<g ref="char:EOLhyphen"/>on breaks out, <hi>Egredere anima mea—</hi> Thou hast served thy God Seventy years, go forth Joy<g ref="char:EOLhyphen"/>fully; <hi>Lord, now lettest thou thy Servant depart in peace,</hi> and let every of us strive to do such Faith<g ref="char:EOLhyphen"/>ful Service to our God in our several Stations and
+<pb n="22" facs="tcp:51327:15"/> Generations, that we may at last hear that Har<g ref="char:EOLhyphen"/>monious Voice of our Great Master, <hi>Euge bone serve: Well done, good and faithful servant, enter thou into thy masters Joy.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb n="22" facs="tcp:51327:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
